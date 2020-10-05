@@ -1,0 +1,33 @@
+BRANCH CODE,BRANCH,Total Equipment A Count,Equipment A Status,Equipment A Count,Equipment A Date Done,Equipment A Next Schedule to be done Again, ,Equipment B Status,Equipment B Date Done,Equipment B Next Schedule to be done Again,   ,Equipment C Status,Equipment C Date Installed,     ,Equipment D Status,Equipment D Date Installed,      ,Activity A Status ,Activity A Date Done
+101,CityA-Street1,5,refilled,5,"january 12, 2020","January 12, 2021", ,Checked,"February 12, 2020","February 12, 2021",   ,Installed,"March 03, 2020",     ,Posted,"January 19, 2019",      ,Done,"March 10, 2020"
+102,CityA-Street2,6,refilled,6,"january 12, 2020","January 12, 2021", ,Checked,"February 12, 2020","February 12, 2021",   ,Installed,"March 03, 2021",     ,Posted,"January 19, 2020",      ,Done,"March 10, 2021"
+103,CityA-Street3,7,refilled,7,"january 12, 2020","January 12, 2021", ,Checked,"February 12, 2020","February 12, 2021",   ,Installed,"March 03, 2022",     ,Posted,"January 19, 2021",      ,Done,"March 10, 2022"
+104,CityA-Street4,8,refilled,8,"january 12, 2020","January 12, 2021", ,Checked,"February 12, 2020","February 12, 2021",   ,Installed,"March 03, 2023",     ,Posted,"January 19, 2022",      ,Done,"March 10, 2023"
+105,CityA-Street5,9,refilled,9,"january 12, 2020","January 12, 2021", ,Checked,"February 12, 2020","February 12, 2021",   ,Installed,"March 03, 2024",     ,Posted,"January 19, 2023",      ,Done,"March 10, 2024"
+106,CityA-Street6,10,refilled,10,"january 12, 2020","January 12, 2021", ,Checked,"February 12, 2020","February 12, 2021",   ,Installed,"March 03, 2025",     ,Posted,"January 19, 2024",      ,Done,"March 10, 2025"
+107,CityA-Street7,11,refilled,11,"january 12, 2020","January 12, 2021", ,Checked,"February 12, 2020","February 12, 2021",   ,Installed,"March 03, 2026",     ,Posted,"January 19, 2025",      ,Done,"March 10, 2026"
+108,CityA-Street8,12,refilled,12,"january 12, 2020","January 12, 2021", ,Checked,"February 12, 2020","February 12, 2021",   ,Installed,"March 03, 2027",     ,Posted,"January 19, 2026",      ,Done,"March 10, 2027"
+109,CityA-Street9,5,not refilled,,,, ,Not Checked,,,   ,Not Installed,,     ,Not Posted,,      ,Not Done,
+110,CityA-Street10,5,not refilled,,,, ,Not Checked,,,   ,Not Installed,,     ,Not Posted,,      ,Not Done,
+111,CityA-Street11,5,not refilled,,,, ,Not Checked,,,   ,Not Installed,,     ,Not Posted,,      ,Not Done,
+112,CityA-Street12,5,not refilled,,,, ,Not Checked,,,   ,Not Installed,,     ,Not Posted,,      ,Not Done,
+113,CityA-Street13,5,not refilled,,,, ,Not Checked,,,   ,Not Installed,,     ,Not Posted,,      ,Not Done,
+114,CityA-Street14,5,not refilled,,,, ,Not Checked,,,   ,Not Installed,,     ,Not Posted,,      ,Not Done,
+115,CityA-Street15,5,not refilled,,,, ,Not Checked,,,   ,Not Installed,,     ,Posted,"January 19, 2026",      ,Done,"March 10, 2027"
+116,CityA-Street16,5,not refilled,,,, ,Not Checked,,,   ,Not Installed,,     ,Posted,"January 19, 2026",      ,Done,"March 10, 2027"
+117,CityA-Street17,5,not refilled,,,, ,Not Checked,,,   ,Installed,"March 03, 2027",     ,Posted,"January 19, 2026",      ,Done,"March 10, 2027"
+118,CityA-Street18,5,not refilled,,,, ,Checked,"February 12, 2020","February 12, 2020",   ,Installed,"March 03, 2027",     ,Posted,"January 19, 2026",      ,Done,"March 10, 2027"
+119,CityA-Street19,5,refilled,,"january 12, 2020","january 12, 2020", ,Checked,"February 12, 2020","February 12, 2020",   ,Installed,"March 03, 2027",     ,Not Posted,,      ,Done,"March 10, 2027"
+120,CityA-Street20,5,refilled,,"january 12, 2020","january 12, 2020", ,Checked,"February 12, 2020","February 12, 2020",   ,Installed,"March 03, 2027",     ,Not Posted,,      ,Done,"March 10, 2027"
+121,CityA-Street21,5,refilled,,"january 12, 2020","january 12, 2020", ,Checked,"February 12, 2020","February 12, 2020",   ,Installed,"March 03, 2027",     ,Not Posted,,      ,Done,"March 10, 2027"
+122,CityA-Street22,5,not refilled,,,, ,Checked,"February 12, 2020","February 12, 2020",   ,Installed,"March 03, 2027",     ,Not Posted,,      ,Done,"March 10, 2027"
+123,CityA-Street23,5,not refilled,,,, ,Checked,"February 12, 2020","February 12, 2020",   ,Installed,"March 03, 2027",     ,Not Posted,,      ,Done,"March 10, 2027"
+124,CityA-Street24,5,not refilled,,,, ,Checked,"February 12, 2020","February 12, 2020",   ,Installed,"March 03, 2027",     ,Not Posted,,      ,Done,"March 10, 2027"
+125,CityA-Street25,5,not refilled,,,, ,Checked,"February 12, 2020","February 12, 2020",   ,Installed,"March 03, 2027",     ,Posted,"January 19, 2026",      ,Done,"March 10, 2027"
+126,CityA-Street26,5,not refilled,,,, ,Not Checked,,,   ,Installed,"March 03, 2027",     ,Posted,"January 19, 2026",      ,Done,"March 10, 2027"
+127,CityA-Street27,5,not refilled,,,, ,Not Checked,,,   ,Installed,"March 03, 2027",     ,Posted,"January 19, 2026",      ,Done,"March 10, 2027"
+128,CityA-Street28,5,refilled,,"january 12, 2020","january 12, 2020", ,Not Checked,,,   ,Installed,"March 03, 2027",     ,Posted,"January 19, 2026",      ,Done,"March 10, 2027"
+129,CityA-Street29,5,refilled,,"january 12, 2020","january 12, 2020", ,Not Checked,,,   ,Not Installed,,     ,Not Posted,,      ,Done,"March 10, 2027"
+130,CityA-Street30,5,refilled,,"january 12, 2020","january 12, 2020", ,Not Checked,,,   ,Not Installed,,     ,Not Posted,,      ,Not Done,
+131,CityA-Street31,5,refilled,,"january 12, 2020","january 12, 2020", ,Not Checked,,,   ,Not Installed,,     ,Not Posted,,      ,Not Done,
+132,CityA-Street32,5,refilled,,"january 12, 2020","january 12, 2020", ,Not Checked,,,   ,Not Installed,,     ,Not Posted,,      ,Not Done,
