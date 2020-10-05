@@ -19,7 +19,9 @@ This program extract data from the CSV and can also sort branches that have the 
 What this code do are:
 
 It will ask the user What task he want to do:
+
 1- Show 1 branch Status
+
 2- Show all Branch Status
 
 **If the user input 1**, it will prompt the user to enter a branch code from the csv
