@@ -25,20 +25,31 @@ It will ask the user What task he want to do:
 **If the user input 1**, it will prompt the user to enter a branch code from the csv
 
 After entering a branch code,it will prompt the user to select items from the branch code that he wants to see:
+
 1- Equipment A
+
 2- Equipment B
+
 3- Equipment C
+
 4- Equipment D
+
 5 - Activity A
+
 6 - Show all
 
 After selecting an item, it will display the dataframe of user's chosen branch code.
 
 **If the user input 2**, it will prompt the user to select an item that he wants to show, for all branches:
+
 1- Equipment A
+
 2- Equipment B
+
 3- Equipment C
+
 4- Equipment D
+
 5 - Activity A
 
 After selecting an item, it will prompt the user to select a status for that item.
