@@ -8,13 +8,16 @@ You can reduce the length of the code especially the if-else / if-elif statement
 
 If you can find some codes which i can further reduce, please do so. I'd appreciate it a lot.
 
+If you can also improve some things that needs to be improved and add items / options for the user, please do so also.
+
 Thanks!!!
 
 =============================================
 
 This program extract data from the CSV and can also sort branches that have the same status and show it to the user.
 
-What this code does are:
+What this code do are:
+
 It will ask the user What task he want to do:
 1- Show 1 branch Status
 2- Show all Branch Status
